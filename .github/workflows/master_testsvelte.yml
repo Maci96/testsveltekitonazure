@@ -59,4 +59,4 @@ jobs:
           app-name: 'testsvelte'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A5425ADE91AE49B5BFB081849D36117C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B8F15B47547E4108B28F4A3ED0649683 }}
